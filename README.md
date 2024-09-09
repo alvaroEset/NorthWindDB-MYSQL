@@ -76,4 +76,4 @@ Esta consulta devuelve el total de ventas por empleado y muestra solo aquellos q
 
 ---
 
-Cada consulta ha sido optimizada para su uso en bases de datos SQL y están orientadas a la extracción de información útil de tablas relacionadas con productos, clientes, pedidos, y empleados.
+

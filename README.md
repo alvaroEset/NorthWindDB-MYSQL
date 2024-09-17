@@ -56,8 +56,8 @@ Esta consulta cuenta el número de pedidos realizados por cada cliente y muestra
 
 ---
 
-## 6. Aumentar el precio de todos los productos en la categoría 'Beverages' en un 10%
-Esta consulta incrementa el precio de todos los productos que pertenecen a la categoría 'Beverages' en un 10%.
+## 6. Aumentar en un 10% el precio base de todos los productos pertenecientes a la categoría con nombre exacto 'Beverages'.
+Esta instruccion incrementa el precio de todos los productos que pertenecen a la categoría 'Beverages' en la base de datos en un 10% de forma permanente
 
 ---
 
